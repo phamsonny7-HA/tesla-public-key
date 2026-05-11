@@ -1,0 +1,2 @@
+include: [".well-known"]
+permalink: /:title:output_ext
